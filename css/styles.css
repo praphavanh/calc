@@ -57,10 +57,3 @@ body {
     font-size: 2rem;
 }
 
-@media only screen and (min-width: 768px) {
- .calculator-grid {
-    width: 600px;
-    padding: 0 auto;
- }
-}
-
